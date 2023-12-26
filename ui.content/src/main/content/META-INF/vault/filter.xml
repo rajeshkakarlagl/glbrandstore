@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/glbrandstore" mode="merge"/>
+    <filter root="/content/glbrandstore" mode="merge"/>
+    <filter root="/content/dam/glbrandstore" mode="merge">
+        <exclude pattern="/content/dam/glbrandstore(/.*)?"/>
+        <include pattern="/content/dam/glbrandstore/jcr:content(/.*)?"/>
+    </filter>
+    <filter root="/content/dam/glbrandstore/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/glbrandstore" mode="merge"/>
+</workspaceFilter>

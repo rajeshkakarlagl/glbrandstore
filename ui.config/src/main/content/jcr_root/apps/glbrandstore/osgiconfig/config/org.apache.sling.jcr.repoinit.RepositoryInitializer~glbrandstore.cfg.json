@@ -1,0 +1,7 @@
+{
+    "scripts": [
+        "create path (sling:OrderedFolder) /content/dam/glbrandstore",
+        "create path (nt:unstructured) /content/dam/glbrandstore/jcr:content",
+        "set properties on /content/dam/glbrandstore/jcr:content\n  set cq:conf{String} to /conf/glbrandstore\n  set jcr:title{String} to \"GL Brandstore\"\nend"
+    ]
+}

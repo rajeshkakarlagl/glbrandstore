@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/glbrandstore/clientlibs"/>
+    <filter root="/apps/glbrandstore/components"/>
+    <filter root="/apps/glbrandstore/i18n"/>
+</workspaceFilter>

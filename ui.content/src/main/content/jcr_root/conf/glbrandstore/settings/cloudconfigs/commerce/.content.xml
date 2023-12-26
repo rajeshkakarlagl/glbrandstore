@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:graphqlClient="default"
+        cq:lastModified="{Date}2023-12-14T17:21:58.250+05:30"
+        cq:lastModifiedBy="admin"
+        cq:template="/libs/cif/shell/components/configuration/page/template"
+        jcr:language="en_us"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Commerce"
+        sling:configPropertyInherit="true"
+        sling:resourceType="cif/shell/components/configuration/page"
+        enableClientSidePriceLoading="true"
+        enableUIDSupport="true"
+        enableWishLists="true"
+        magentoRootCategoryId="Mg=="
+        magentoStore="default"/>
+</jcr:root>

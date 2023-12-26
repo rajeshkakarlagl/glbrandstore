@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2023-09-13T11:57:55.551+05:30"
+        cq:lastModifiedBy="admin"
+        cq:tags="[]"
+        cq:template="/conf/glbrandstore/settings/wcm/templates/xf-web-variation"
+        cq:xfMasterVariation="{Boolean}true"
+        cq:xfVariantType="web"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Footer"
+        sling:resourceType="glbrandstore/components/xfpage">
+        <root
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="glbrandstore/components/container"
+            layout="responsiveGrid">
+            <container
+                cq:styleIds="[1597902980391,1597907315954]"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="glbrandstore/components/container"
+                layout="responsiveGrid">
+                <text_197302128_copy
+                    jcr:lastModified="{Date}2023-09-06T11:11:12.435+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="glbrandstore/components/text"
+                    text="&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;b>Account&lt;/b>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>Sign In&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>Register&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;a href=&quot;/content/glbrandstore/us/en/my-account/order-history.html&quot;>Order Status&lt;/a>&lt;/p>&#xd;&#xa;&lt;p>&lt;a title=&quot;Order Status&quot; href=&quot;/content/glbrandstore/us/en/my-account/order-history.html&quot;>&amp;nbsp;&lt;/a>&lt;/p>&#xd;&#xa;&lt;p>Returns&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;"
+                    textIsRich="true">
+                    <cq:responsive jcr:primaryType="nt:unstructured">
+                        <default
+                            jcr:primaryType="nt:unstructured"
+                            offset="0"
+                            width="3"/>
+                        <phone
+                            jcr:primaryType="nt:unstructured"
+                            offset="1"
+                            width="11"/>
+                    </cq:responsive>
+                </text_197302128_copy>
+                <text_197302128_copy_631702609
+                    jcr:lastModified="{Date}2023-09-04T13:57:14.658+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="glbrandstore/components/text"
+                    text="&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;b>About Us&lt;/b>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;a href=&quot;https://www.globallogic.com/&quot; target=&quot;_blank&quot;>Our Story&lt;/a>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;"
+                    textIsRich="true">
+                    <cq:responsive jcr:primaryType="nt:unstructured">
+                        <default
+                            jcr:primaryType="nt:unstructured"
+                            offset="0"
+                            width="3"/>
+                        <phone
+                            jcr:primaryType="nt:unstructured"
+                            offset="1"
+                            width="11"/>
+                    </cq:responsive>
+                </text_197302128_copy_631702609>
+                <text_197302128_copy_1685680670
+                    jcr:lastModified="{Date}2023-09-04T13:58:06.423+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="glbrandstore/components/text"
+                    text="&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;b>Help&lt;/b>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&lt;a href=&quot;https://www.globallogic.com/contact/&quot; target=&quot;_blank&quot;>Contact Us&lt;/a>&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;"
+                    textIsRich="true">
+                    <cq:responsive jcr:primaryType="nt:unstructured">
+                        <default
+                            jcr:primaryType="nt:unstructured"
+                            offset="0"
+                            width="3"/>
+                        <phone
+                            jcr:primaryType="nt:unstructured"
+                            offset="1"
+                            width="11"/>
+                    </cq:responsive>
+                </text_197302128_copy_1685680670>
+                <text_1931847779
+                    jcr:lastModified="{Date}2023-08-29T10:01:27.748+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="glbrandstore/components/text"
+                    text="&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;"
+                    textIsRich="true">
+                    <cq:responsive jcr:primaryType="nt:unstructured">
+                        <default
+                            jcr:primaryType="nt:unstructured"
+                            offset="0"
+                            width="3"/>
+                        <phone
+                            jcr:primaryType="nt:unstructured"
+                            offset="1"
+                            width="11"/>
+                    </cq:responsive>
+                </text_1931847779>
+                <separator
+                    jcr:lastModified="{Date}2023-08-24T11:06:29.366+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="glbrandstore/components/separator"/>
+                <socialmedialinks
+                    jcr:lastModified="{Date}2023-09-13T10:55:55.075+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="glbrandstore/components/socialMediaLinks"
+                    companyname="Follow Globallogic">
+                    <continents jcr:primaryType="nt:unstructured">
+                        <item0
+                            jcr:primaryType="nt:unstructured"
+                            fieldLink="/content/glbrandstore/us"
+                            fieldName="facebook"/>
+                        <item1
+                            jcr:primaryType="nt:unstructured"
+                            fieldLink="/content/glbrandstore/us/en"
+                            fieldName="instagram"/>
+                        <item2
+                            jcr:primaryType="nt:unstructured"
+                            fieldLink="https://www.youtube.com/playlist?list=PL5l69Ui6w3V_4naQpzfOC-enLOzcxHm-H"
+                            fieldName="youtube"/>
+                    </continents>
+                </socialmedialinks>
+                <text
+                    jcr:created="{Date}2023-09-13T11:57:24.544+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2023-09-13T11:57:55.519+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="glbrandstore/components/text"
+                    id="footerCopyright"
+                    text="&lt;p>Copyright 2020, GLBrandstore.&amp;nbsp;All rights reserved. 345 Park Avenue,&amp;nbsp;San Jose, CA 95110-2704, USA&lt;/p>&#xd;&#xa;"
+                    textIsRich="true"/>
+            </container>
+            <text
+                jcr:lastModified="{Date}2023-08-30T12:09:02.473+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="venia/components/text"
+                id="footerCopyright"
+                text="&lt;p>Copyright 2020, GLBrandstore.&amp;nbsp;All rights reserved.&lt;/p>&#xd;&#xa;&lt;p>345 Park Avenue,&amp;nbsp;San Jose, CA 95110-2704, USA&lt;/p>&#xd;&#xa;"
+                textIsRich="true"/>
+            <footer1
+                jcr:lastModified="{Date}2023-09-06T11:54:25.718+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="glbrandstore/components/footer1">
+                <continents jcr:primaryType="nt:unstructured">
+                    <item0
+                        jcr:primaryType="nt:unstructured"
+                        fieldLink="https://www.facebook.com/GlobalLogic"
+                        fieldName="facebook"/>
+                    <item1
+                        jcr:primaryType="nt:unstructured"
+                        fieldLink="https://twitter.com/i/flow/login?redirect_after_login=%2Fgloballogic"
+                        fieldName="twitter"/>
+                    <item2
+                        jcr:primaryType="nt:unstructured"
+                        fieldLink="https://instagram.com/globallogicindia?igshid=MzRlODBiNWFlZA=="
+                        fieldName="instagram"/>
+                    <item3
+                        jcr:primaryType="nt:unstructured"
+                        fieldLink="https://www.linkedin.com/company/globallogic"
+                        fieldName="linkedin"/>
+                </continents>
+            </footer1>
+        </root>
+    </jcr:content>
+</jcr:root>
