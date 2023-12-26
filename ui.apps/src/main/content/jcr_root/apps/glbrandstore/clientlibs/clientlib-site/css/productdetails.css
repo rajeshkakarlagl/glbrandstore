@@ -1,0 +1,109 @@
+
+
+.productFullDetail__imageCarousel {
+    margin-left:5%;
+   }
+.productFullDetail__productName{
+	text-transform: capitalize;
+    font-size: 80%;
+    margin-top: -20%;
+    }
+.productFullDetail__details {
+    color: #575757;
+    display: table;
+    margin-bottom: 15px;
+    width: 70%;
+    font-size: 50%;
+    margin-top: -106%;
+    height: 26% !important;
+    margin-left: 25%;
+    float: right;
+    text-align: right;
+    vertical-align: top;
+}
+.productFullDetail__description {
+  -ms-flex-item-align: stretch;
+  align-self: stretch;
+  border-top-width: 1px;
+  margin-left:20%;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  margin-top:-11%;
+  margin-left:15%;
+}
+.productFullDetail__quantityTitle{
+	font-size: 50%;
+    margin-left: 0%;
+    margin-top: 10%;
+            }
+.productFullDetail__title .price {
+    font-size: 107%;
+    margin-top: 127%;
+    font-weight: bold;
+    color: black;
+    position: relative;
+    right: 630%;
+    margin-left: 80%;
+}
+
+.icon__root{
+    display:none;
+    }
+.productFullDetail__section {
+	border: solid #e0e0e0;
+    border-width: 1px 0px 1px;
+    padding: 0.5rem 0;
+    border-width: 0px 0px 0px;
+}
+.productFullDetail__cartActions{
+   /*border: solid #e0e0e0; */
+    border-width: 0px 0px 1px;
+    /* margin: 0 1.5rem; */
+    padding: 2.5rem 0px;
+    margin-top: -124%;
+    margin-left: -316%;
+    margin-right: 114%;
+}
+
+.productFullDetail__options {
+    grid-area: options;
+    /*margin-top: -65%;*/
+}
+.option__root {
+    border-bottom: 1px solid #e0e0e0;
+    margin: -55px 0;
+    padding: 1.5rem 0;
+    margin-top:-13%;
+}
+.container .breadcrumb {
+  margin-top: 1%;
+}
+.productFullDetail__detailsTitle {
+    font-size: 10px;
+    margin-right: 3px;
+    word-break: break-all;
+    word-wrap: break-word;
+    display: inline-block;
+    margin-top: 28%;
+}
+.productFullDetail__title {
+    padding: 0.5rem;
+    border-bottom: 1px solid #e0e0e0;
+    height: 100%;
+    margin-top: 2%;
+}
+.option__root {
+    border-bottom: 1px solid #e0e0e0;
+    margin: 0px 0;
+    padding: 1.5rem 0;
+    margin-top: 0%;
+}
+
+.search__filters {
+    position: absolute;
+    margin-top: 0%;
+    background-color: #de5d2a;
+    width: 15%;
+    height: 90px;
+    left: 2%;
+}

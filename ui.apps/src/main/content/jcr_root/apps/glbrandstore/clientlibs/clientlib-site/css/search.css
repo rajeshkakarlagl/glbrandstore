@@ -1,0 +1,42 @@
+.filterBlock__toggler{
+opacity:0;
+}
+.filterBlock__header {
+	-webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    grid-auto-flow: column;
+    min-height: 3rem;
+    cursor: pointer;
+	display: grid;
+    grid-template-columns: 1fr auto;
+    border: solid #e0e0e0;
+    border-width: 1px 0 0;
+    font-weight: 600;
+	}
+.filterSection-title{
+    font-weight: 600;
+
+}
+.filterSection-header{
+	padding: 0.5rem 0;
+	}
+.show {
+  display: block;
+}
+.minicart{
+	width:2%;
+}
+.searchbar{
+margin-left:2%;
+}
+.icon-root {
+    cursor: pointer;
+  }
+.filterList-items {
+    display: none;
+  }
+.icon-open{
+    display:none;
+}
+
